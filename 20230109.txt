@@ -10,3 +10,9 @@ https://www.youtube.com/watch?v=bMknfKXIFA8
 benzeri videolar
 https://www.youtube.com/watch?v=4UZrsTqkcW4
 
+// Alptekin
+https://github.com/alptekinsarilar/30-Days-JS-Solutions
+day10 solutions bitti
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+problemi çözüldü
