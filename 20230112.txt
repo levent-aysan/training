@@ -1,0 +1,4 @@
+// Alptekin
+day18 (Promise) exercises çözüldü
+day19 (Closures) bitti
+day20 (Writing Clean Code) bitti
