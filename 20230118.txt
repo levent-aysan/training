@@ -1,0 +1,2 @@
+// Alptekin
+Section 8-9-10(Interfaces, tsc, Tuples and Enums) bitti
