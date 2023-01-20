@@ -1,0 +1,3 @@
+// Alptekin
+TypeScript kursuna başladım. (https://www.udemy.com/course/learn-typescript/)
+İlk 7 section bitti
