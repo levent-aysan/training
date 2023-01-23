@@ -1,0 +1,2 @@
+// Alptekin
+day22 (Manipulating DOM Objects) bitti

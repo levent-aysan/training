@@ -1,0 +1,4 @@
+// Alptekin
+day15 level 3 çözüldü (Class'lar)
+day16-17 çözüldü (JSON ve Web Storage)
+day18 (Callbacks, Promise, Fetch API) başlanıldı
